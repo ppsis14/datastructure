@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class ArrayCollectionTest {
     @Test
     public void testSizeZero(){
-        ArrayCollection arrayB = new ArrayCollection();
-        assertEquals(0,arrayB.size());
+        ArrayCollection arrayE = new ArrayCollection();
+        assertEquals(0,arrayE.size());
     }
 }
